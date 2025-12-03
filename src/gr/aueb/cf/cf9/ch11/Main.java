@@ -4,6 +4,9 @@ public class Main {
 
     public static void main(String[] args) {
 
+        Product milk = new Product(1L, "Milk A", "Light Milk", 1.5, 2, true);
+        System.out.println(milk.getDescription());
+
         User user = new User();
         User andreas22 = new User(1L, "Andreas", "Papadopoulos", "andrew", "12345", true);
 
