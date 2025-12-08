@@ -1,7 +1,7 @@
 package gr.aueb.cf.cf9.ch13;
 
 /**
- * Singleton Design Patter.
+ * Singleton Design Pattern.
  */
 public class OnlyOneCodingFactory {
 
