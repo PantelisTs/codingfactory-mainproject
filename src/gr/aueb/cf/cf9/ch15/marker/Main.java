@@ -1,7 +1,5 @@
 package gr.aueb.cf.cf9.ch15.marker;
 
-import gr.aueb.cf.cf9.ch11.Product;
-
 public class Main {
     public static void main(String[] args) {
         Item cd = new CompactDisk(2, "TheWeeknd - In Your Eyes");
