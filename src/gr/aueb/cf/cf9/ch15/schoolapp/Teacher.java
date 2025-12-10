@@ -1,4 +1,4 @@
-package gr.aueb.cf.cf9.ch15.school_app;
+package gr.aueb.cf.cf9.ch15.schoolapp;
 
 public class Teacher {
     private long id;
